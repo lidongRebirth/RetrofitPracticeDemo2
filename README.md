@@ -1,2 +1,0 @@
-# RetrofitPracticeDemo2
-Retrofit使用拦截器添加cookie
